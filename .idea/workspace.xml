@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ec97c66-cc7d-4cdd-86a5-e157f987981e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gitinore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testproject.py" afterDir="false" />
+    <list default="true" id="5ec97c66-cc7d-4cdd-86a5-e157f987981e" name="Default Changelist" comment="ddddsdfsdfsdsss">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608035101833</updated>
-      <workItem from="1608035105536" duration="4059000" />
+      <workItem from="1608035105536" duration="5669000" />
     </task>
     <task id="LOCAL-00001" summary="sdddd">
       <created>1608035151928</created>
@@ -198,7 +196,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608042294309</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="ddddsdfsdfsdsss">
+      <created>1608045128435</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1608045128435</updated>
+    </task>
+    <task id="LOCAL-00019" summary="ddddsdfsdfsdsss">
+      <created>1608045792224</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1608045792224</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,14 +245,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="734" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608045118360" />
-    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1608042293799">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1608047217885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608042293799" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1608042295482">
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608047217885" />
+    <state x="771" y="222" key="RollbackChangesDialog" timestamp="1608047220673">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608042295482" />
+    <state x="771" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608047220673" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1608045793247">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608045793247" />
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608035119536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
