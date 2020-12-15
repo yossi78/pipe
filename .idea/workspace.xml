@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ec97c66-cc7d-4cdd-86a5-e157f987981e" name="Default Changelist" comment="" />
+    <list default="true" id="5ec97c66-cc7d-4cdd-86a5-e157f987981e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/xxx.deb" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +50,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yossi\IdeaProjects\pipe\src" />
       <recent name="C:\Users\Yossi\IdeaProjects\pipe" />
     </key>
   </component>
@@ -72,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608035101833</updated>
-      <workItem from="1608035105536" duration="2435000" />
+      <workItem from="1608035105536" duration="3065000" />
     </task>
     <task id="LOCAL-00001" summary="sdddd">
       <created>1608035151928</created>
@@ -172,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608038607878</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="ddddsdfsdfsdsss">
+      <created>1608040798438</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1608040798438</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,21 +209,22 @@
     <MESSAGE value="As" />
     <MESSAGE value="dddd" />
     <MESSAGE value="ddddsdfsdfsd" />
-    <option name="LAST_COMMIT_MESSAGE" value="ddddsdfsdfsd" />
+    <MESSAGE value="ddddsdfsdfsdsss" />
+    <option name="LAST_COMMIT_MESSAGE" value="ddddsdfsdfsdsss" />
   </component>
   <component name="WindowStateProjectService">
     <state x="734" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608035498441">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="734" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608035498441" />
-    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1608038607410">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1608040797931">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608038607410" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1608038609004">
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608040797931" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1608040799673">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608038609004" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608040799673" />
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608035119536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
