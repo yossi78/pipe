@@ -1,1 +1,15 @@
-fsdfsd
+
+
+
+wget http://security.ubuntu.com/ubuntu/pool/main/a/apt/apt_1.2.32ubuntu0.2_amd64.deb
+
+
+
+sudo dpkg -i    apt_1.2.32ubuntu0.2_amd64.deb.deb
+
+
+
+
+
+
+
