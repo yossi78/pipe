@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ec97c66-cc7d-4cdd-86a5-e157f987981e" name="Default Changelist" comment="ddddsdfsdfsdsss">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5ec97c66-cc7d-4cdd-86a5-e157f987981e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,12 +44,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ARES/SVC" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Yossi\IdeaProjects\pipe\src" />
       <recent name="C:\Users\Yossi\IdeaProjects\pipe" />
+      <recent name="C:\Users\Yossi\IdeaProjects\pipe\src" />
     </key>
   </component>
   <component name="RunManager">
@@ -75,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608035101833</updated>
-      <workItem from="1608035105536" duration="5669000" />
+      <workItem from="1608035105536" duration="6434000" />
     </task>
     <task id="LOCAL-00001" summary="sdddd">
       <created>1608035151928</created>
@@ -210,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608045792224</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="ddddsdfsdfsdsss">
+      <created>1608047498542</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1608047498542</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,18 +251,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="734" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608045118360" />
-    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1608047217885">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1608047497973">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608047217885" />
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608047497973" />
+    <state x="1099" y="378" key="FileChooserDialogImpl" timestamp="1608047384427">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1099" y="378" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608047384427" />
     <state x="771" y="222" key="RollbackChangesDialog" timestamp="1608047220673">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="771" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608047220673" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1608045793247">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1608047499712">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608045793247" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608047499712" />
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608035119536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
