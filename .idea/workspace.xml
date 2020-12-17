@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ec97c66-cc7d-4cdd-86a5-e157f987981e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/carts.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testproject.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,27 +46,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ARES/SVC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IOT/Introduction-to-AWS-IoT" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Yossi\IdeaProjects\pipe" />
       <recent name="C:\Users\Yossi\IdeaProjects\pipe\src" />
+      <recent name="C:\Users\Yossi\IdeaProjects\pipe" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -79,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608035101833</updated>
-      <workItem from="1608035105536" duration="7077000" />
+      <workItem from="1608035105536" duration="8078000" />
     </task>
     <task id="LOCAL-00001" summary="sdddd">
       <created>1608035151928</created>
@@ -260,10 +244,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608047497973" />
-    <state x="1099" y="378" key="FileChooserDialogImpl" timestamp="1608047384427">
+    <state x="1099" y="378" key="FileChooserDialogImpl" timestamp="1608107835740">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1099" y="378" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608047384427" />
+    <state x="1099" y="378" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608107835740" />
     <state x="771" y="222" key="RollbackChangesDialog" timestamp="1608047220673">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
